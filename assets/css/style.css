@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 34px;
+    color: #777777;
+    background: #aaa;
+    margin:0px 0px 60px 0px;
+  }
+  
+h1{
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 700;
+    background-color: #4aaaa5;
+    font-size: 30px;
+    line-height: 49px;
+    color: #ffffff;
+    padding: 12px 12px 12px 12px;
+    margin-bottom: 0;
+}
+
+  
+
+.fuck{
+    text-align:left;
+}
+.pic{
+    max-height: 60%;
+    max-width: 60%;
+    float:left;
+}
+
+.thumbnail{
+    max-width:250px;
+    width:100%;
+    height:140px;
+    margin-bottom:5px;
+}
+
+.message{
+    height:100%;
+    min-height:150px;
+    max-height:350px;
+    margin-bottom:20px;
+}
+
+.mb-20{
+    margin-bottom:20px;
+}
+
+p{
+    text-align:justify;
+}
+
+h2{
+    font-family: Georgia, Times, "Times New Roman", serif;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+    color:#4aaaa5;
+}
+
+.heading{
+    padding-top:30px;
+    border-bottom: 3px solid #777777;
+}
+
+.mt-30{
+    margin-top:30px;
+}
+.bg-white{
+    background-color:#ffffff;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+  }
+.footer {
+    border-top: 3px solid #4aaaa5;
+    color:#ffffff;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 80px; /* Set the fixed height of the footer here */
+    line-height: 60px; /* Vertically center the text there */
+    background-color: #666;
+    text-align:center;
+  }
+  
